@@ -1,1 +1,1 @@
-action:no-boot
+action:boot
