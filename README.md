@@ -1,1 +1,1 @@
-action:np-boot
+action:boot
